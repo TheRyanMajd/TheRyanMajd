@@ -1,44 +1,71 @@
-# Ryan Majd
+# 🧑🏻‍💻 Ryan Majd
 
-👋 Hi there, I'm Ryan - a Computer Science student at the University of Georgia, with a passion for developing innovative solutions and enhancing my technical skills in programming, web development, and artificial intelligence.
+Hi there! I'm Ryan, a dedicated Computer Science and Applied Mathematics student at the University of Georgia, driven by a passion for developing innovative solutions in software engineering, web development, and artificial intelligence.
 
-## 📚 Education
+## 📚 **Education**
 
-- **Bachelor of Science in Computer Science**, Minor in Mathematics  
+- **B.S. in Computer Science & Applied Mathematics**  
   UGA Franklin College of Arts and Sciences  
-  Expected Graduation: 2025 | Current GPA: 3.69  
-  Dean's List | Zell Miller and Hope Scholarship Recipient
+  Expected Graduation: 2026 | **GPA**: 3.72  
+  **Dean's List** | **Zell Miller and Hope Scholarship Recipient**
 
-## 💼 Experience
+## 💼 **Professional Experience**
+
+- **Co-Founder & CTO**, [TravelByte Inc.](https://travelbyte.net/)  
+  _Building a SaaS platform to enhance trucking efficiency with real-time data, optimizing truck stop capacities and routes._
+  
+- **Technology Team Organizer**, UGAHACKSX  
+  _June 2023 - Present_  
+  Collaborating on organizing a hackathon with 800+ participants, managing logistics, mentoring participants, and guiding the tech team.
 
 - **Performance Engineering Intern**, BIP Ventures  
   _June 2023 - Present_  
-  Curating and managing a comprehensive AI resource library, implementing an organizational system for enhanced accessibility, and compiling essential information for 300+ companies.
-- **Marketing Team Organizer**, UGAHACKS9  
-  _June 2023 - Present_  
-  Coordinating hackathons with 800+ attendees, managing social media promotion, and designing marketing assets.
+  Developing a comprehensive AI resource library, implementing efficient data organization systems, and compiling essential insights for over 300+ companies.
 
-## 🛠 Skills
+- **Resident Assistant**, University of Georgia  
+  _August 2023 - Present_  
+  Ensuring a positive living experience for students, fostering community development, and providing support for over 50 residents.
 
-- **Technical**: Java, C, C++, Python, Unity, Unix, IT, Web Development, Git & GitHub, Artificial Intelligence
-- **Soft**: Leadership, Dependability, Problem Solving, Strategic Thinking, Presentation Skills, RESTful APIs
+## 🛠 **Skills**
 
-## 🚀 Projects & Passions
+### **Technical Skills**
+- **Languages**: Java, JavaScript, C, C++, Python
+- **Web Development**: React, Next.js, Node.js, Express, MongoDB
+- **Tools**: GitHub, Figma, RESTful APIs, Unix/Linux
+- **Frameworks & Technologies**: Unity, Artificial Intelligence, TailwindCSS
 
-- **[Personal Website v2.1](https://theryanmajd.github.io/my-website-v2.1/)**: An interactive site developed with Next.js to showcase my work and experiences.
-- **Balloon Pop Java Game**: A JavaFX game featuring different modes, background music, and an engaging UI.
-- **Doggo Dash Simple Platformer**: A platformer game created with HTML5 and C# for intuitive gameplay and UI.
-- **Ubuntu Home Server**: Converted a laptop into a server for various uses, including game servers and storage.
+### **Soft Skills**
+- **Leadership**: President of [Kappa Theta Pi](https://ktpgeorgia.com/), Founder
+- **Dependability**: Successfully completed diverse roles balancing work, education, and extracurriculars
+- **Problem-Solving & Strategic Thinking**: SaaS Startup experience, organizing technical events
+- **Presentation Skills**: Conducting workshops, chapter meetings, and technical presentations
 
-## 📞 Get in Touch
+## 🚀 **Projects & Achievements**
 
-- Email: [ryan.majd@uga.edu](mailto:ryan.majd@uga.edu)
-- [LinkedIn](https://www.linkedin.com/in/ryan-majd/) - Connect with me!
-- [GitHub](https://github.com/theryanmajd) - Find my projects and contributions here.
+- **[img-to-ics](https://github.com/theryanmajd/img-to-ics)**: Developed a Python application with GUI and CLI that converts images or flyers containing event details into ICS (iCalendar) files.
+- **[Personal Website](https://theryanmajd.github.io/my-website/)**: Built and deployed a responsive website showcasing my skills and experiences using Next.js and custom TailwindCSS animations.
+- **Balloon Pop Java Game**: Created a JavaFX game featuring multiple modes, background music, and interactive UI.
+- **Ubuntu Home Server**: Configured a laptop as an Ubuntu server to run game servers, host websites, and provide file storage.
 
-Feel free to reach out for collaborations, opportunities, or if you just want to chat about technology and innovation!
+## 🎓 **Leadership & Extracurriculars**
 
-<!---
-TheRyanMajd/TheRyanMajd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Founding President**, Kappa Theta Pi – Phi Colony at UGA  
+  _Leading a technology fraternity focused on professional development, mentoring, and networking in the tech industry._
+
+- **Co-Author**, Upcoming Publication: 'Attention Mechanisms and Activation Patterns in LLMs'  
+  _Collaborating on research examining the inner workings of Large Language Models (LLMs)_
+
+## 🌟 **Accolades**
+
+- **Fusen World Accelerator Fellowship**  
+  Accepted into a prestigious program to develop my first startup.
+- **UGA Dean’s List**  
+  Recognized for maintaining high academic performance.
+
+## 📞 **Get in Touch**
+
+- **Email**: [ryan.majd@uga.edu](mailto:ryan.majd@uga.edu)
+- **LinkedIn**: [linkedin.com/in/ryan-majd](https://www.linkedin.com/in/ryan-majd/)
+- **GitHub**: [github.com/theryanmajd](https://github.com/theryanmajd)
+
+I'm always excited to connect, collaborate on projects, or discuss technology, startups, and gaming! Feel free to reach out!
