@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Ryan Majd
 
-Hi there! I'm Ryan, a dedicated Computer Science and Applied Mathematics student at the University of Georgia, driven by a passion for developing innovative solutions in software engineering, web development, and artificial intelligence. Visit my website! RyanMajd.com
+Hi there! I'm Ryan, a dedicated Computer Science and Applied Mathematics student at the University of Georgia, driven by a passion for developing innovative solutions in software engineering, web development, and artificial intelligence. Visit my website! https://RyanMajd.com
 
 ## 📚 **Education**
 
