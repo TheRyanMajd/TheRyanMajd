@@ -1,71 +1,25 @@
-# 🧑🏻‍💻 Ryan Majd
+# 💫 About Me:
 
-Hi there! I'm Ryan, a dedicated Computer Science and Applied Mathematics student at the University of Georgia, driven by a passion for developing innovative solutions in software engineering, web development, and artificial intelligence. Visit my website! https://RyanMajd.com
+🧑‍💻  Computer Science and Mathematics ’26 @ **[University of Georgia](https://www.uga.edu)**  <br>
+🤝  Founding President, **[Kappa Theta Pi – Phi Chapter](https://KTPGeorgia.com)**  <br>
+⚡  Technology Director, **[UGAHacks](https://ugahacks.com)** | GitHub Campus Expert (in training)  <br>
+🚚  Co-Founder & CTO, **[TravelByte Inc.](https://Travelbyte.net)** — building SaaS to make trucking smarter  <br>
+🛠️  Interests: Full-Stack & Cloud, Security, AI/LLMs, and open-source tools like **[img-to-ics](https://github.com/theRyanMajd/img-to-ics)**  <br>
 
-## 📚 **Education**
+🌐  More about me at **[RyanMajd.com](https://RyanMajd.com)**
 
-- **B.S. in Computer Science & Applied Mathematics**  
-  UGA Franklin College of Arts and Sciences  
-  Expected Graduation: 2026 | **GPA**: 3.72  
-  **Dean's List** | **Zell Miller and Hope Scholarship Recipient**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TheRyanMajd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TheRyanMajd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ryan-Majd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TheRyanMajd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryan.majd@uga.edu) 
 
-## 💼 **Professional Experience**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TheRyanMajd&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TheRyanMajd&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRyanMajd&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- **Co-Founder & CTO**, [TravelByte Inc.](https://travelbyte.net/)  
-  _Building a SaaS platform to enhance trucking efficiency with real-time data, optimizing truck stop capacities and routes._
-  
-- **Technology Team Organizer**, UGAHACKSX  
-  _June 2023 - Present_  
-  Collaborating on organizing a hackathon with 800+ participants, managing logistics, mentoring participants, and guiding the tech team.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TheRyanMajd&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
-- **Performance Engineering Intern**, BIP Ventures  
-  _June 2023 - Present_  
-  Developing a comprehensive AI resource library, implementing efficient data organization systems, and compiling essential insights for over 300+ companies.
-
-- **Resident Assistant**, University of Georgia  
-  _August 2023 - Present_  
-  Ensuring a positive living experience for students, fostering community development, and providing support for over 50 residents.
-
-## 🛠 **Skills**
-
-### **Technical Skills**
-- **Languages**: Java, JavaScript, C, C++, Python
-- **Web Development**: React, Next.js, Node.js, Express, MongoDB
-- **Tools**: GitHub, Figma, RESTful APIs, Unix/Linux
-- **Frameworks & Technologies**: Unity, Artificial Intelligence, TailwindCSS
-
-### **Soft Skills**
-- **Leadership**: President of [Kappa Theta Pi](https://ktpgeorgia.com/), Founder
-- **Dependability**: Successfully completed diverse roles balancing work, education, and extracurriculars
-- **Problem-Solving & Strategic Thinking**: SaaS Startup experience, organizing technical events
-- **Presentation Skills**: Conducting workshops, chapter meetings, and technical presentations
-
-## 🚀 **Projects & Achievements**
-
-- **[img-to-ics](https://github.com/theryanmajd/img-to-ics)**: Developed a Python application with GUI and CLI that converts images or flyers containing event details into ICS (iCalendar) files.
-- **[Personal Website](https://theryanmajd.github.io/my-website/)**: Built and deployed a responsive website showcasing my skills and experiences using Next.js and custom TailwindCSS animations.
-- **Balloon Pop Java Game**: Created a JavaFX game featuring multiple modes, background music, and interactive UI.
-- **Ubuntu Home Server**: Configured a laptop as an Ubuntu server to run game servers, host websites, and provide file storage.
-
-## 🎓 **Leadership & Extracurriculars**
-
-- **Founding President**, Kappa Theta Pi – Phi Colony at UGA  
-  _Leading a technology fraternity focused on professional development, mentoring, and networking in the tech industry._
-
-- **Co-Author**, Upcoming Publication: 'Attention Mechanisms and Activation Patterns in LLMs'  
-  _Collaborating on research examining the inner workings of Large Language Models (LLMs)_
-
-## 🌟 **Accolades**
-
-- **Fusen World Accelerator Fellowship**  
-  Accepted into a prestigious program to develop my first startup.
-- **UGA Dean’s List**  
-  Recognized for maintaining high academic performance.
-
-## 📞 **Get in Touch**
-
-- **Email**: [ryan.majd@uga.edu](mailto:ryan.majd@uga.edu)
-- **LinkedIn**: [linkedin.com/in/ryan-majd](https://www.linkedin.com/in/ryan-majd/)
-- **GitHub**: [github.com/theryanmajd](https://github.com/theryanmajd)
-
-I'm always excited to connect, collaborate on projects, or discuss technology, startups, and gaming! Feel free to reach out!
+---
+[![](https://visitcount.itsvg.in/api?id=TheRyanMajd&icon=5&color=10)](https://visitcount.itsvg.in)
